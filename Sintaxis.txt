@@ -1,0 +1,32 @@
+Validaciones de la sintaxis
+
+a. Condiciones (if,else,switch)
+    1. if = SI
+        SI y > 10 ENTONCES
+            IMPRIMIR("El valor de y es mayor a 10")
+
+    2. else = SINO
+        SINO ENTONCES
+            IMPRIMIR(y)
+
+    3. elif = SWITCH
+        SWITCH y < 10
+            IMPRIMIR("El valor de y es menor a 10")
+
+b. Ciclos (for, while)
+    1. for = PARA
+        PARA i = 1 HASTA 5
+            IMPRIMIR(i)
+
+    2. while = MIENTRAS
+        MIENTRAS x > 10
+            IMPRIMIR(x)
+
+
+c. Operaciones aritméticas
+    Ejemplos:
+    x = x + 1, y = x + 3, x = 10 * 5
+
+d. Declaración y Asignación de Variables
+    Ejemplos:
+    x = x + 1, x = 5, y = x + 3, a = "Hola que tal"

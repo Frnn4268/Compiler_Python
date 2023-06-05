@@ -1,0 +1,21 @@
+x = 5
+y = x + 3
+a = "Hola que tal"
+
+SI y > 10 ENTONCES
+    IMPRIMIR("El valor de y es mayor a 10")
+
+SWITCH y < 10
+    IMPRIMIR("El valor de y es menor a 10")
+
+SINO ENTONCES
+    IMPRIMIR(y)
+
+PARA i = 1 HASTA 5
+    IMPRIMIR(i)
+
+MIENTRAS x > 10
+    IMPRIMIR(x)
+    x = x + 1
+
+jejeje
